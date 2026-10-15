@@ -1,6 +1,7 @@
 # CDM — Diagnostic Service
 
 ChAoS Foundation PHP-native administrator-only diagnostic module.
+Created in part, and Sponsored, by the [ChAoS FOundation](https://www.chaos-foundation.org)
 
 ## Scope
 
