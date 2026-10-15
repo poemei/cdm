@@ -1,0 +1,19 @@
+{
+    "name": "Chaos MVC Developer Diagnostic Service",
+    "module": "cdm",
+    "version": "0.2.0",
+    "description": "Administrator-only evidence-based diagnostic inspection for ChAoS MVC modules.",
+    "creator": "ChAoS Foundation",
+    "certified": "yes",
+    "database_tables": [],
+    "files": [
+        "controllers/cdm.php",
+        "models/cdm_model.php",
+        "views/index.php",
+        "views/admin/index.php",
+        "docs/README.md"
+    ],
+    "routes": [
+        "index"
+    ]
+}
